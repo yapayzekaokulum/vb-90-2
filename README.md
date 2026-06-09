@@ -7,4 +7,5 @@ Hafta 2 - Ders 2: [Numpy-1](https://colab.research.google.com/drive/17N0vy5d-wNq
 Hafta 3 - Ders 1: [Numpy-Pandas](https://colab.research.google.com/drive/1lHlH_ylj0YsTv0VygnWp9po9lrYWgQjS?usp=sharing)<br>
 Hafta 3 - Ödev: [AI-Studio-Uygulama-Ödevi](https://colab.research.google.com/drive/1PLVxA4eJNy6K-bLtM1N0-ViD6flSOZac?usp=sharing) <br>
 Hafta 3- Ders 2: [Pandas-devam](https://colab.research.google.com/drive/1v_gEsIwvqF80uQHtyR9HbvCVek688tdR?usp=sharing)<br>
-Hafta 3- Ders 2- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/drive/13Sb_ZxFSYiuqbOAUsbUFgWpQfkyzcMmV?usp=sharing)
+Hafta 4- Ders 1- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/drive/13Sb_ZxFSYiuqbOAUsbUFgWpQfkyzcMmV?usp=sharing)
+Hafta 5 - Ders 1 [Titanic] (https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi)
