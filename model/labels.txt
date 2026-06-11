@@ -1,0 +1,3 @@
+0 Aslan
+1 Kaplan
+2 Kedi
