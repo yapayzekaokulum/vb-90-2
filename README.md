@@ -8,4 +8,6 @@ Hafta 3 - Ders 1: [Numpy-Pandas](https://colab.research.google.com/drive/1lHlH_y
 Hafta 3 - Ödev: [AI-Studio-Uygulama-Ödevi](https://colab.research.google.com/drive/1PLVxA4eJNy6K-bLtM1N0-ViD6flSOZac?usp=sharing) <br>
 Hafta 3- Ders 2: [Pandas-devam](https://colab.research.google.com/drive/1v_gEsIwvqF80uQHtyR9HbvCVek688tdR?usp=sharing)<br>
 Hafta 4- Ders 1- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/drive/13Sb_ZxFSYiuqbOAUsbUFgWpQfkyzcMmV?usp=sharing)<br>
-Hafta 5 - Ders 1 [Titanic](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi)
+Hafta 5 - Ders 1 [Titanic](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) 
+<br>
+Hafta 5 - Ders 2 [TM Model Oluşturma ve Deploy Web, Python ve Android] (https://colab.research.google.com/drive/1ptYye5zr1tbmBwvui2cLmAUpCrMwVqSq?usp=sharing)
