@@ -11,6 +11,6 @@ Hafta 4- Ders 1- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/d
 Hafta 5 - Ders 1 [Titanic](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) 
 <br>
 Hafta 5 - Ders 2 [TM Model Oluşturma ve Deploy Web, Python ve Android](https://colab.research.google.com/drive/1ptYye5zr1tbmBwvui2cLmAUpCrMwVqSq?usp=sharing) <br>
-Hafta 4- Ders-2 Telafi [Telafi Dersi](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br>
+Hafta 4- Ders-2 (Telafi) [Telafi Dersi](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br>
 Hafta 6- Ders 1-2 [Titanik Yarışması Skor](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br> 
 Hafta 6- Ders 2  [İkinci El Araç Fiyat Tahmin](https://colab.research.google.com/drive/1IykSr8gKrjkWH3gHyNdz6rHrwUCq8XRX?usp=sharing)
