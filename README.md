@@ -14,4 +14,5 @@ Hafta 5 - Ders 2 [TM Model Oluşturma ve Deploy Web, Python ve Android](https://
 Hafta 4- Ders-2 (Telafi) [Telafi Dersi](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br>
 Hafta 6- Ders 1-2 [Titanik Yarışması Skor](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br> 
 Hafta 6- Ders 2  [İkinci El Araç Fiyat Tahmin](https://colab.research.google.com/drive/1IykSr8gKrjkWH3gHyNdz6rHrwUCq8XRX?usp=sharing) <br>
-Hafta 7- Ders 1 [İkinci El Araç Tahmin Model Dosyası](https://github.com/yapayzekaokulum/vb-90-2/blob/main/model/car_pipe.pkl) 
+Hafta 7- Ders 1 [İkinci El Araç Tahmin Model Dosyası](https://github.com/yapayzekaokulum/vb-90-2/blob/main/model/car_pipe.pkl) <br>
+Hafta 7- Ödev:[2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/drmurataltun/arac_fyt_tahmin)
