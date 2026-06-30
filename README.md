@@ -17,3 +17,4 @@ Hafta 6- Ders 2  [İkinci El Araç Fiyat Tahmin](https://colab.research.google.c
 Hafta 7- Ders 1 [İkinci El Araç Tahmin Model Dosyası](https://github.com/yapayzekaokulum/vb-90-2/blob/main/model/car_pipe.pkl) <br>
 Hafta 7- Ödev:[2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/drmurataltun/AracFiyatTahmin2)) <br>
 Not: requirements.txt dosyasında pandas sürümü 2.2.3 olarak değiştirilmeli <br>
+Hafta 7-Ders 2 [Gradio ile basit Form oluşturma](https://colab.research.google.com/drive/10501phzY5qwOp41NyMgKwHUAAK8mc1hR?usp=sharing)
