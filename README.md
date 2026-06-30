@@ -18,7 +18,8 @@ Hafta 7- Ders 1 [İkinci El Araç Tahmin Model Dosyası](https://github.com/yapa
 Hafta 7- Ödev:[2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/drmurataltun/AracFiyatTahmin2)) <br>
 Not: requirements.txt dosyasında pandas sürümü 2.2.3 olarak değiştirilmeli <br>
 Hafta 7-Ders 2 [Gradio ile basit Form oluşturma](https://colab.research.google.com/drive/10501phzY5qwOp41NyMgKwHUAAK8mc1hR?usp=sharing) <br>
-[Örnek Data](https://github.com/yapayzekaokulum/vb-90-2/raw/main/data/form.csv)<br>
+* Colab'te form çok iyi görünmedi.<br>
+[Örnek Data](https://github.com/yapayzekaokulum/vb-90-2/raw/main/data/form.csv)<br> 
 [Google AGY (Antigravity) örneği](https://github.com/DrMuratAltun/gradio-form/tree/main)  
 
 
