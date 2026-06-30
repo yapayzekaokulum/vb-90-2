@@ -1,25 +1,27 @@
-# Veri Bilimi ve YZ Bootcamp
-[Kurs Programı](https://drmurataltun.github.io/VB-YZ-90/) </br>
-Hafta 1- Ders 2: [Python Temelleri Colab](https://colab.research.google.com/drive/1_7WAK3IaYT7AdjUhFPt_xQrhuDgaEIgC?usp=sharing) <br>
-Hafta 1 - Ders 2- Ödev-1: [Liste Kayıt Uygulaması](https://colab.research.google.com/drive/1Ly-41-L6jPo2AxNmTNzqMtJc-GL_IlGb?usp=sharing) <br>
-Hafta 2 - Ders 1: [Python Temelleri Devam](https://colab.research.google.com/drive/1EjqGXGwt0_ZPGg4KiH21cDWGRYkOCOCu?usp=sharing) <br>
-Hafta 2 - Ders 2: [Numpy-1](https://colab.research.google.com/drive/17N0vy5d-wNqN5-apyLNSNSvdWHKJr7ZO?usp=sharing)<br>
-Hafta 3 - Ders 1: [Numpy-Pandas](https://colab.research.google.com/drive/1lHlH_ylj0YsTv0VygnWp9po9lrYWgQjS?usp=sharing)<br>
-Hafta 3 - Ödev: [AI-Studio-Uygulama-Ödevi](https://colab.research.google.com/drive/1PLVxA4eJNy6K-bLtM1N0-ViD6flSOZac?usp=sharing) <br>
-Hafta 3- Ders 2: [Pandas-devam](https://colab.research.google.com/drive/1v_gEsIwvqF80uQHtyR9HbvCVek688tdR?usp=sharing)<br>
-Hafta 4- Ders 1- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/drive/13Sb_ZxFSYiuqbOAUsbUFgWpQfkyzcMmV?usp=sharing)<br>
-Hafta 5 - Ders 1 [Titanic](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) 
-<br>
-Hafta 5 - Ders 2 [TM Model Oluşturma ve Deploy Web, Python ve Android](https://colab.research.google.com/drive/1ptYye5zr1tbmBwvui2cLmAUpCrMwVqSq?usp=sharing) <br>
-Hafta 4- Ders-2 (Telafi) [Telafi Dersi](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br>
-Hafta 6- Ders 1-2 [Titanik Yarışması Skor](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) <br> 
-Hafta 6- Ders 2  [İkinci El Araç Fiyat Tahmin](https://colab.research.google.com/drive/1IykSr8gKrjkWH3gHyNdz6rHrwUCq8XRX?usp=sharing) <br>
-Hafta 7- Ders 1 [İkinci El Araç Tahmin Model Dosyası](https://github.com/yapayzekaokulum/vb-90-2/blob/main/model/car_pipe.pkl) <br>
-Hafta 7- Ödev:[2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/drmurataltun/AracFiyatTahmin2)) <br>
-Not: requirements.txt dosyasında pandas sürümü 2.2.3 olarak değiştirilmeli <br>
-Hafta 7-Ders 2 [Gradio ile basit Form oluşturma](https://colab.research.google.com/drive/10501phzY5qwOp41NyMgKwHUAAK8mc1hR?usp=sharing) <br>
-* Colab'te form çok iyi görünmedi.<br>
-[Örnek Data](https://github.com/yapayzekaokulum/vb-90-2/raw/main/data/form.csv)<br> 
-[Google AGY (Antigravity) örneği](https://github.com/DrMuratAltun/gradio-form/tree/main)  
+# 📁 Müfredat ve Çalışmalar
 
+| Dönem / Hafta | Tür | Konu Başlığı | Erişim Linki |
+| :--- | :--- | :--- | :--- |
+| **📅 Hafta 1** | 📖 Ders 2 | Python Temelleri | 📚 [Colab Not Defteri](https://colab.research.google.com/drive/1_7WAK3IaYT7AdjUhFPt_xQrhuDgaEIgC?usp=sharing) |
+| **📅 Hafta 1** | 📝 Ödev | Öğrenci Kayıt Sistemi (Liste Kayıt Uygulaması) | 💻 [Proje Sayfası](https://colab.research.google.com/drive/1Ly-41-L6jPo2AxNmTNzqMtJc-GL_IlGb?usp=sharing) |
+| **📅 Hafta 2** | 📖 Ders 1 | Python Temelleri (Devam) | 📚 [Colab Not Defteri](https://colab.research.google.com/drive/1EjqGXGwt0_ZPGg4KiH21cDWGRYkOCOCu?usp=sharing) |
+| **📅 Hafta 2** | 📖 Ders 2 | NumPy Kütüphanesine Giriş (Numpy-1) | 📊 [Analiz Not Defteri](https://colab.research.google.com/drive/17N0vy5d-wNqN5-apyLNSNSvdWHKJr7ZO?usp=sharing) |
+| **📅 Hafta 3** | 📖 Ders 1 | NumPy & Pandas Giriş | 📊 [Analiz Not Defteri](https://colab.research.google.com/drive/1lHlH_ylj0YsTv0VygnWp9po9lrYWgQjS?usp=sharing) |
+| **📅 Hafta 3** | 📝 Ödev | Google AI Studio App (Uygulama Ödevi) | 🤖 [Proje Sayfası](https://colab.research.google.com/drive/1PLVxA4eJNy6K-bLtM1N0-ViD6flSOZac?usp=sharing) |
+| **📅 Hafta 3** | 📖 Ders 2 | Advanced Pandas Operasyonları (Pandas-devam) | 📊 [Analiz Not Defteri](https://colab.research.google.com/drive/1v_gEsIwvqF80uQHtyR9HbvCVek688tdR?usp=sharing) |
+| **📅 Hafta 4** | 📊 Uygulama | Tips Veri Seti - Restoran Bahşiş Analizi (NB-2) | 📈 [Veri Analiz Raporu](https://colab.research.google.com/drive/13Sb_ZxFSYiuqbOAUsbUFgWpQfkyzcMmV?usp=sharing) |
+| **📅 Hafta 4** | 📖 Ders 2 | Telafi Dersi (Titanic Veri Analizi) | ⚓ [Kaggle Notebook](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) |
+| **📅 Hafta 5** | 📖 Ders 1 | Titanic Veri Analizi ve Modelleme | ⚓ [Kaggle Notebook](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) |
+| **📅 Hafta 5** | 📖 Ders 2 | TM Model Oluşturma ve Deploy (Web, Python, Android) | 🚀 [Colab Not Defteri](https://colab.research.google.com/drive/1ptYye5zr1tbmBwvui2cLmAUpCrMwVqSq?usp=sharing) |
+| **📅 Hafta 6** | 🏆 Yarışma | Titanik Yarışması Skor Değerlendirme | ⚓ [Kaggle Notebook](https://www.kaggle.com/code/drmurataltun/vb-90-2-titanic-veri-analizi) |
+| **📅 Hafta 6** | 📖 Ders 2 | İkinci El Araç Fiyat Tahmin | 🚗 [Colab Not Defteri](https://colab.research.google.com/drive/1IykSr8gKrjkWH3gHyNdz6rHrwUCq8XRX?usp=sharing) |
+| **📅 Hafta 7** | 📖 Ders 1 | İkinci El Araç Tahmin Model Dosyası (Pipeline) | 📦 [GitHub Repository](https://github.com/yapayzekaokulum/vb-90-2/blob/main/model/car_pipe.pkl) |
+| **📅 Hafta 7** | 📝 Ödev | 2. El Araç Fiyat Tahmin Sitesi Deployment | 🤗 [Hugging Face Space](https://huggingface.co/spaces/drmurataltun/AracFiyatTahmin2) |
+| **📅 Hafta 7** | 📖 Ders 2 | Gradio ile Basit Form Oluşturma & Google AGY | 🛠️ [Colab Not Defteri](https://colab.research.google.com/drive/10501phzY5qwOp41NyMgKwHUAAK8mc1hR?usp=sharing) / [GitHub](https://github.com/DrMuratAltun/gradio-form/tree/main) |
 
+---
+
+> 💡 **Önemli Notlar:**
+> * Hafta 7 ödevindeki Hugging Face projesinin `requirements.txt` dosyasında pandas sürümü **2.2.3** olarak güncellenmelidir.
+> * Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Google AGY (Antigravity) Şablonu](https://github.com/DrMuratAltun/gradio-form/tree/main) ve [Örnek Data](https://github.com/yapayzekaokulum/vb-90-2/raw/main/data/form.csv) incelenebilir.
+> * Tüm sürece [Kurs Programı](https://drmurataltun.github.io/VB-YZ-90/) üzerinden erişilebilir.
