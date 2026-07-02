@@ -20,8 +20,8 @@
 | **📅 Hafta 7** | 📖 Ders 2 | Gradio ile Basit Form Oluşturma & Google AGY | 🛠️ [Colab Not Defteri](https://colab.research.google.com/drive/10501phzY5qwOp41NyMgKwHUAAK8mc1hR?usp=sharing) / [GitHub](https://github.com/DrMuratAltun/gradio-form/tree/main) |
 | **📅 Hafta 7** | 📖 Ders 3 | Covid-Yarışan Grafikler | 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1Lajp4XLAn371eCyXKAQIyua1KzLOrg40?usp=sharing) |
 | **📅 Hafta 7** | 📝 Ödev-2 | Nufus Değ. Grafiği |  |
-| **📅 Hafta 7** | 📖 Ders 3-2 NB | FDarklı Paltformlardan Veri Çekmek| 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1nzEapFk2k7deiJVGjCtSfzWGFK07bp20?usp=sharing) |
-
+| **📅 Hafta 7** | 📖 Ders 3-2 NB | Farklı Paltformlardan Veri Çekmek| 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1nzEapFk2k7deiJVGjCtSfzWGFK07bp20?usp=sharing) |
+| **📅 Hafta 7** | 📖 Ders 3-3 NB | Bing Arama Motoru ile Görsel indirmek| 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1AlkQyNmyTOpUuplxNw3ackbktKFQhv3F?usp=sharing) |
 ---
 
 > 💡 **Önemli Notlar:**
