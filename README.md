@@ -18,7 +18,7 @@
 | **📅 Hafta 7** | 📖 Ders 1 | İkinci El Araç Tahmin Model Dosyası (Pipeline) | 📦 [GitHub Repository](https://github.com/yapayzekaokulum/vb-90-2/blob/main/model/car_pipe.pkl) |
 | **📅 Hafta 7** | 📝 Ödev | 2. El Araç Fiyat Tahmin Sitesi Deployment | 🤗 [Hugging Face Space](https://huggingface.co/spaces/drmurataltun/AracFiyatTahmin2) |
 | **📅 Hafta 7** | 📖 Ders 2 | Gradio ile Basit Form Oluşturma & Google AGY | 🛠️ [Colab Not Defteri](https://colab.research.google.com/drive/10501phzY5qwOp41NyMgKwHUAAK8mc1hR?usp=sharing) / [GitHub](https://github.com/DrMuratAltun/gradio-form/tree/main) |
-
+| **📅 Hafta 7** | 📖 Ders 3 | Covid-Yarışan Grafikler |[Colab Note defteri](https://colab.research.google.com/drive/1Lajp4XLAn371eCyXKAQIyua1KzLOrg40?usp=sharing) |
 ---
 
 > 💡 **Önemli Notlar:**
