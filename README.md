@@ -22,7 +22,7 @@
 | **📅 Hafta 7** | 📝 Ödev-2 | Nufus Değ. Grafiği | |
 | **📅 Hafta 7** | 📖 Ders 3-2 NB | Farklı Paltformlardan Veri Çekmek | 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1nzEapFk2k7deiJVGjCtSfzWGFK07bp20?usp=sharing) |
 | **📅 Hafta 7** | 📖 Ders 3-3 NB | Bing Arama Motoru ile Görsel indirmek | 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1AlkQyNmyTOpUuplxNw3ackbktKFQhv3F?usp=sharing) [...] |
-| **📅 Hafta 8** | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning) | 🚀 [Colab Not Defteri](https://colab.research.google.com/drive/1LoqUJmhUwygeOI3LjbkXRCagvJ9I58vc?usp=sharing) |
+| **📅 Hafta 8** | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning) | 🚀 [Colab Not Defteri](https://colab.research.google.com/drive/1LoqUJmhUwygeOI3LjbkXRCagvJ9I58vc?usp=sharing) Ödev Not defteri içinde BI anaitik raporu|
 
 ---
 
