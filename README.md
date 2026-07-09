@@ -24,6 +24,7 @@
 | **📅 Hafta 7** | 📖 Ders 3-3 NB | Bing Arama Motoru ile Görsel indirmek | 🛠️ [Colab Note defteri](https://colab.research.google.com/drive/1AlkQyNmyTOpUuplxNw3ackbktKFQhv3F?usp=sharing)[...]
 | **📅 Hafta 8** | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning) | 🚀 [Colab Not Defteri](https://colab.research.google.com/drive/1LoqUJmhUwygeOI3LjbkXRCagvJ9I58vc?usp=sharing[...]
 | **📅 Hafta 8** | 📖 Ders 2 | Adidas Zaman Serisi Analizi | 📚 [Colab Not Defteri](https://colab.research.google.com/drive/14KoX5X-x96L0fBd3_TheLoE7RDvj0kZK?usp=sharing) |
+| **📅 Hafta 8** | 📚 Çalışma | Ders 3 Colab Not Defteri | 📚 [Colab Not Defteri](https://colab.research.google.com/drive/1StSXklsNaYRF0GH7Ny-IaHuev7soKaow?usp=sharing) |
 
 ---
 
