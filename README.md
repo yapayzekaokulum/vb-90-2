@@ -28,8 +28,8 @@
 | **📅 Hafta 9** | 📚 Çalışma | Ders 1-2 Ödev-1 İçerik Bazlı Öneri Arayüz | 📚 [Colab Not Defteri](https://colab.research.google.com/drive/1StSXklsNaYRF0GH7Ny-IaHuev7soKaow?usp=shar[...]
 | **📅 Hafta 9** | 📖 Ders 3 | HF Model Çekme ve Kullanımı | 🤗 [Colab Not Defteri](https://colab.research.google.com/drive/1bdXua_enPEM5pu2i2VtT24QpU0Xt7-PA?usp=sharing) |
 | **📅 Hafta 10** | 📖 Ders 1 | HF Duygu Analizi Modeli | 📥 [Veri Dosyası](https://drive.google.com/file/d/11B1A7YGrXAeK6HyQmKDvazfRw_bqZ7xb/view?usp=sharing) 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1I-2wYxg9WSOz9QRzVrNMh9Couqk5RPTr?usp=sharing) |
-
-
+| **📅 Hafta 10** | 📖 Ders 2-1 | Gemini API Kullanımı| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1Cr5Ska4Ddl08mB872k464dRuwQgvLSOV?usp=sharing) |
+| **📅 Hafta 10** | 📖 Ders 2-2 | Gemini API Kullanımı-2| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1350HpX3x1Puvu6Sk_-UZrlDIccLbw4Tg?usp=sharing) |
 ### 9. Hafta Ders 1-2 Ödev 1
 ---
 
