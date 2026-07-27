@@ -31,7 +31,7 @@
 | **📅 Hafta 10** | 📖 Ders 2-1 | Gemini API Kullanımı| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1Cr5Ska4Ddl08mB872k464dRuwQgvLSOV?usp=sharing) |
 | **📅 Hafta 10** | 📖 Ders 2-2 | Gemini API Kullanımı-2| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1350HpX3x1Puvu6Sk_-UZrlDIccLbw4Tg?usp=sharing) |
 | **📅 Hafta 10** | 📖 Ders 3 | Haber Özetleme - HF Model| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1HeNMbAgOLWRPyDCrvq0oO8AklASxES3y?usp=sharing) |
-| **📅 Hafta 11** | 📖 Ders 1 | Open-CV| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/16-zc_OfHQ3XykxGq4cPyLhVuuVbCSErS?usp=sharing) [Data:](https://drive.google.com/drive/folders/17BYaU78J-NLuqdSD2pg5FzovntHYhRTY?usp=drive_link) |
+| **📅 Hafta 11** | 📖 Ders 1 | Open-CV| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/16-zc_OfHQ3XykxGq4cPyLhVuuVbCSErS?usp=sharing) [Data](https://drive.google.com/drive/folders/17BYaU78J-NLuqdSD2pg5FzovntHYhRTY?usp=drive_link) [Streamlit Uyg.](https://github.com/DrMuratAltun/siyah-beyaz/) |
 
 
 ### 9. Hafta Ders 1-2 Ödev 1
