@@ -34,7 +34,8 @@
 | **📅 Hafta 11** | 📖 Ders 1 | Open-CV| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/16-zc_OfHQ3XykxGq4cPyLhVuuVbCSErS?usp=sharing) [Data](https://drive.google.com/drive/folders/17BYaU78J-NLuqdSD2pg5FzovntHYhRTY?usp=drive_link) [Streamlit Uyg.](https://github.com/DrMuratAltun/siyah-beyaz/) |
 | **📅 Hafta 11** | 📖 Ders 2 |Vibe Coding| 💻 AntiGravity üzerinde çalışmalar yapıldı.|
 | **📅 Hafta 11** | 📖 Ders 3 |Derin Öğrenme-Tek Nöron| 💻 [Kod Not Defteri](https://drive.google.com/file/d/1m86IsXJkE4z2RN_xNQmpSi7uYJGJFKbV/view?usp=sharing)|
-| **📅 Hafta 12** | 📖 Ders 1 |Derin Öğrenme-MNIST| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1moRAAea70_k28HoPiIqov15CYAf9GAJK?usp=sharing)|
+| **📅 Hafta 12** | 📖 Ders 1 |Derin Öğrenme-MNIST-DL| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1moRAAea70_k28HoPiIqov15CYAf9GAJK?usp=sharing)|
+| **📅 Hafta 12** | 📖 Ders 2 |Derin Öğrenme-CIFAR-CNN| 💻 [Kod Not Defteri](https://colab.research.google.com/drive/1HxMykIaXRxHNvngnAL5Y2Y5xmL-Sk1fK?usp=sharing)|
 
 
 ### 9. Hafta Ders 1-2 Ödev 1
